@@ -35,7 +35,7 @@ Project Status:
 Developed as part of the **45-day Android Development Internship** at [ApexPlanet Software Pvt. Ltd.](http://www.apexplanet.in)
 
 Connect:
-- LinkedIn: [Your Profile]
-- Email: [Your Email]
+- LinkedIn:  https://www.linkedin.com/in/ashutosh-k62054
+
 
 Contribution suggestions and feedback welcome!
